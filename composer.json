@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sms\\Request\\V20160927\\": "src/"
+            "Sms\\": "src/Sms"
         }
     },
     
