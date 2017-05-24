@@ -1,0 +1,31 @@
+{
+    "name": "royfj/aliyun-php-sdk-dm",
+    "type": "library",
+    "description": "Aliyun PHP SDK DM",
+    "version": "0.1.0",
+    "license": "MIT",
+    "homepage": "https://www.aliyun.com",
+    "authors": [
+        {
+            "name": "Li Guanghui",
+            "email": "liguanghui2006@gmail.com"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3",
+        "royfj/aliyun-php-sdk-core": ">=0.1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sms\\Request\\V20160927\\": "src/"
+        }
+    },
+    
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
