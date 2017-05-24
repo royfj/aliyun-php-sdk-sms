@@ -1,8 +1,8 @@
 {
-    "name": "royfj/aliyun-php-sdk-dm",
+    "name": "royfj/aliyun-php-sdk-sms",
     "type": "library",
-    "description": "Aliyun PHP SDK DM",
-    "version": "0.1.0",
+    "description": "Aliyun PHP SDK SMS",
+    "version": "0.1.1",
     "license": "MIT",
     "homepage": "https://www.aliyun.com",
     "authors": [
